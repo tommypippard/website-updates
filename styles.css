@@ -155,6 +155,7 @@ h2 {
 img {
     width: 75%;
     padding-right: 2%;
+    float: right;
 }
 
 .row {
@@ -271,4 +272,5 @@ h4 {
   margin-left: auto;
   margin-right: auto;
   padding: 0;
+  float: none;
 }
