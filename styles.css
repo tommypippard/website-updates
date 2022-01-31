@@ -154,7 +154,6 @@ h2 {
 
 img {
     width: 75%;
-    float: right;
     padding-right: 2%;
 }
 
@@ -225,6 +224,12 @@ p {
       ". . . ."; 
   }
 
+.cv {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .contact-card {
     margin-left: 5%;
     margin-top: 5%;
@@ -257,4 +262,11 @@ h4 {
 
 .email-text {
     padding: 0;
+}
+
+.cv-img {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
 }
